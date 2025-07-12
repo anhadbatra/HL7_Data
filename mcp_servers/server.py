@@ -4,4 +4,4 @@ mcp = FastMCP("The first server")
 
 @mcp.tool()
 def get_lambda():
-    pass
+    
